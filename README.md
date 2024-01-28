@@ -1,4 +1,4 @@
-# Bug Reports samples 
+# Bug Reports samples using Jira
 
 --------------------------
 
