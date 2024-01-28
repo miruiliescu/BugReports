@@ -21,4 +21,4 @@ Web page should be responsive with no item overflowing.
 Web page not responsive. Header is covered by an image.
 
 **Screenshot:**
-![dimensions.png]
+![dimensions](https://github.com/miruiliescu/BugReports/assets/102084810/3f13bbc1-bcfe-4193-9a3b-ba65faae2fc4)
